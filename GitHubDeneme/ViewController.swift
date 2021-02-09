@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("push1")
         print("push2")
+        print("push3")
     }
 
 
